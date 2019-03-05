@@ -1,2 +1,3 @@
 # u2ktek
-website
+U2ktek official web site.
+Activities, customers, technologies, contact.
